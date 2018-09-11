@@ -1,0 +1,2 @@
+更換banner : https://www.hifreud.com/2017/06/21/spring-boot-04-banner/
+application起來後，馬上結束 : https://stackoverflow.com/questions/22380119/why-does-my-spring-boot-app-always-shutdown-immediately-after-starting
